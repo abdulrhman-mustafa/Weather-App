@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+@import "tailwindcss";
+
+* {
+    font-family: "Comic Relief", system-ui;
+}
+.app {
+    min-height: 100vh;
+    background: linear-gradient(30deg,rgba(54, 151, 255, 1) 0%, rgba(113, 8, 204, 1) 50%, rgba(69, 96, 252, 1) 100%);
+}
